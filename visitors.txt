@@ -1,0 +1,1403 @@
+UDP server socket created
+UDP server socket created
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+received: 'let me in'
+client connected to the server
+sent: 3 digit: 3
+client connected to the server
+received: 'let me in'
+UDP server socket created
+sent: let me in
+received: 'let me in'
+sent: 0 digit: 0
+client connected to the server
+UDP server socket created
+sent: let me in
+sent: 3 digit: 3
+sent: let me in
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 0 digit: 0
+UDP server socket created
+UDP server socket created
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+UDP server socket created
+received: 'let me in'
+client connected to the server
+UDP server socket created
+UDP server socket created
+sent: let me in
+client connected to the server
+received: 'let me in'
+sent: 0 digit: 0
+client connected to the server
+sent: let me in
+sent: let me in
+UDP server socket created
+sent: 1 digit: 1
+client connected to the server
+sent: let me in
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+received: 'let me in'
+sent: 2 digit: 2
+received: 'let me in'
+sent: 1 digit: 1
+received: 'let me in'
+UDP server socket created
+UDP server socket created
+client connected to the server
+client connected to the server
+sent: let me in
+sent: let me in
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+sent: 1 digit: 1
+received: 0
+sent: 2 digit: 2
+received: 'let me in'
+received: 'let me in'
+received: 'let me in'
+sent: 0 digit: 0
+received: 'let me in'
+sent: 2 digit: 2
+sent: 1 digit: 1
+sent: 1 digit: 1
+received: 'let me in'
+sent: 0 digit: 0
+received: 'let me in'
+sent: 1 digit: 1
+received: 0
+UDP server socket created
+sent: 1 digit: 1
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 3 digit: 3
+UDP server socket created
+client connected to the server
+received: 'let me in'
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+sent: 3 digit: 3
+client connected to the server
+sent: let me in
+received: 'let me in'
+UDP server socket created
+received: 'let me in'
+received: 'let me in'
+sent: 1 digit: 1
+UDP server socket created
+client connected to the server
+sent: 3 digit: 3
+sent: let me in
+client connected to the server
+sent: 3 digit: 3
+sent: let me in
+received: 'let me in'
+sent: 3 digit: 3
+received: 1
+sent: 4 digit: 4
+received: 'let me in'
+sent: 4 digit: 4
+UDP server socket created
+received: 'let me in'
+sent: 2 digit: 2
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+received: 'let me in'
+sent: let me in
+sent: 1 digit: 1
+UDP server socket created
+UDP server socket created
+client connected to the server
+client connected to the server
+sent: let me in
+UDP server socket created
+received: 'let me in'
+sent: let me in
+received: 'let me in'
+client connected to the server
+sent: 2 digit: 2
+sent: let me in
+received: 2
+sent: 3 digit: 3
+received: 1
+sent: 3 digit: 3
+received: 'let me in'
+sent: 0 digit: 0
+sent: 1 digit: 1
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+received: 'let me in'
+sent: 1 digit: 1
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 4 digit: 4
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+received: 'let me in'
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 3 digit: 3
+received: 'let me in'
+sent: 3 digit: 3
+received: 3
+sent: 4 digit: 4
+received: 'let me in'
+UDP server socket created
+sent: 1 digit: 1
+received: 3
+client connected to the server
+sent: 4 digit: 4
+received: 'let me in'
+sent: let me in
+sent: 3 digit: 3
+UDP server socket created
+received: 'let me in'
+received: 4
+sent: 2 digit: 2
+sent: 0 digit: 0
+client connected to the server
+sent: let me in
+received: 0
+sent: 2 digit: 2
+received: 2
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 1 digit: 1
+UDP server socket created
+client connected to the server
+sent: let me in
+received: 'let me in'
+UDP server socket created
+sent: 4 digit: 4
+client connected to the server
+received: 3
+sent: 4 digit: 4
+sent: let me in
+received: 'let me in'
+sent: 4 digit: 4
+UDP server socket created
+received: 'let me in'
+client connected to the server
+sent: 4 digit: 4
+sent: let me in
+received: 'let me in'
+sent: 4 digit: 4
+received: 4
+sent: 1 digit: 1
+received: 'let me in'
+sent: 0 digit: 0
+UDP server socket created
+received: 'let me in'
+sent: 2 digit: 2
+client connected to the server
+received: 0
+sent: let me in
+UDP server socket created
+sent: 1 digit: 1
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 0 digit: 0
+received: 'let me in'
+sent: 3 digit: 3
+received: 4
+sent: 0 digit: 0
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+received: 'let me in'
+UDP server socket created
+sent: 1 digit: 1
+client connected to the server
+sent: let me in
+received: 'let me in'
+sent: 0 digit: 0
+UDP server socket created
+received: 'let me in'
+sent: 4 digit: 4
+client connected to the server
+sent: let me in
+received: 'let me in'
+received: 'let me in'
+sent: 4 digit: 4
+sent: 0 digit: 0
+UDP server socket created
+UDP server socket created
+received: 'let me in'
+sent: 1 digit: 1
+client connected to the server
+client connected to the server
+sent: let me in
+UDP server socket created
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+received: 0
+sent: 2 digit: 2
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+client connected to the server
+sent: let me in
+client connected to the server
+UDP server socket created
+sent: let me in
+client connected to the server
+sent: let me in
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+received: 'let me in'
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+UDP server socket created
+sent: let me in
+UDP server socket created
+client connected to the server
+client connected to the server
+client connected to the server
+sent: let me in
+sent: let me in
+sent: let me in
+sent: 0 digit: 0
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+client connected to the server
+sent: let me in
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+UDP server socket created
+client connected to the server
+sent: let me in
+client connected to the server
+sent: let me in
+UDP server socket created
+client connected to the server
+sent: let me in
+received: 2
+sent: 3 digit: 3
+received: 1
+sent: 4 digit: 4
+received: 3
+sent: 4 digit: 4
+received: 3
+sent: 4 digit: 4
+received: 3
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 0
+received: 4
+sent: 1 digit: 1
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 3
+sent: 1 digit: 1
+received: 4
+sent: 1 digit: 1
+received: 3
+sent: 1 digit: 1
+received: 0
+sent: 3 digit: 3
+received: 0
+sent: 1 digit: 1
+received: 1
+sent: 2 digit: 2
+received: 2
+sent: 4 digit: 4
+received: 1
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 4
+sent: 3 digit: 3
+received: 3
+sent: 1 digit: 1
+received: 2
+sent: 0 digit: 0
+received: 1
+sent: 0 digit: 0
+received: 1
+received: 0
+sent: 3 digit: 3
+sent: 2 digit: 2
+received: 2
+sent: 0 digit: 0
+received: 1
+sent: 2 digit: 2
+received: 1
+sent: 3 digit: 3
+received: 2
+sent: 1 digit: 1
+received: 0
+sent: 4 digit: 4
+received: 0
+sent: 2 digit: 2
+received: 0
+sent: 2 digit: 2
+received: 1
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 2
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 2 digit: 2
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 0 digit: 0
+received: 2
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 1
+received: 1
+sent: 3 digit: 3
+sent: 2 digit: 2
+received: 2
+sent: 0 digit: 0
+received: 4
+sent: 3 digit: 3
+received: 0
+sent: 1 digit: 1
+received: 3
+sent: 0 digit: 0
+received: 3
+sent: 2 digit: 2
+received: 0
+sent: 4 digit: 4
+received: 1
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 1
+sent: 0 digit: 0
+received: 0
+sent: 1 digit: 1
+received: 1
+sent: 2 digit: 2
+received: 4
+sent: 1 digit: 1
+received: 4
+sent: 0 digit: 0
+received: 4
+sent: 2 digit: 2
+received: 0
+sent: 3 digit: 3
+received: 3
+sent: 0 digit: 0
+received: 3
+sent: 2 digit: 2
+received: 3
+sent: 1 digit: 1
+received: 3
+received: 3
+sent: 4 digit: 4
+sent: 1 digit: 1
+received: 1
+sent: 2 digit: 2
+received: 3
+received: 2
+sent: 4 digit: 4
+sent: 0 digit: 0
+received: 0
+sent: 4 digit: 4
+received: 3
+sent: 2 digit: 2
+received: 0
+sent: 4 digit: 4
+received: 0
+received: 4
+sent: 1 digit: 1
+sent: 3 digit: 3
+received: 3
+sent: 2 digit: 2
+received: 1
+received: 'let me in'
+sent: 1 digit: 1
+received: 2
+sent: 4 digit: 4
+received: 1
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 4
+sent: 3 digit: 3
+received: 2
+sent: 1 digit: 1
+received: 0
+sent: 3 digit: 3
+received: 3
+sent: 4 digit: 4
+received: 3
+sent: 2 digit: 2
+received: 3
+sent: 2 digit: 2
+received: 1
+received: 2
+sent: 3 digit: 3
+sent: 0 digit: 0
+received: 3
+received: 2
+sent: 0 digit: 0
+sent: 1 digit: 1
+received: 0
+sent: 4 digit: 4
+received: 1
+received: 0
+sent: 0 digit: 0
+sent: 4 digit: 4
+received: 0
+received: 'let me in'
+sent: 2 digit: 2
+received: 4
+sent: 3 digit: 3
+received: 0
+sent: 4 digit: 4
+received: 3
+sent: 0 digit: 0
+received: 4
+sent: 0 digit: 0
+received: 4
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 0 digit: 0
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 4
+received: 'let me in'
+sent: 1 digit: 1
+received: 2
+sent: 0 digit: 0
+received: 1
+sent: 3 digit: 3
+received: 3
+received: 2
+sent: 4 digit: 4
+received: 'let me in'
+sent: 4 digit: 4
+received: 0
+received: 0
+sent: 2 digit: 2
+sent: 4 digit: 4
+received: 0
+sent: 2 digit: 2
+received: 2
+sent: 1 digit: 1
+received: 2
+sent: 1 digit: 1
+received: 3
+sent: 4 digit: 4
+received: 1
+sent: 3 digit: 3
+received: 2
+sent: 0 digit: 0
+received: 0
+received: 'let me in'
+sent: 2 digit: 2
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 3
+sent: 2 digit: 2
+received: 0
+received: 'let me in'
+sent: 0 digit: 0
+received: 1
+sent: 4 digit: 4
+received: 2
+sent: 4 digit: 4
+received: 4
+sent: 2 digit: 2
+received: 3
+received: 4
+sent: 4 digit: 4
+sent: 1 digit: 1
+received: 1
+received: 'let me in'
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 4
+sent: 0 digit: 0
+received: 4
+sent: 2 digit: 2
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 1 digit: 1
+received: 1
+sent: 2 digit: 2
+received: 3
+received: 'let me in'
+received: 3
+sent: 4 digit: 4
+sent: 0 digit: 0
+received: 0
+sent: 4 digit: 4
+received: 3
+sent: 2 digit: 2
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 0
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 2
+sent: 1 digit: 1
+received: 2
+sent: 0 digit: 0
+received: 4
+sent: 0 digit: 0
+received: 1
+sent: 2 digit: 2
+received: 1
+received: 'let me in'
+received: 0
+sent: 3 digit: 3
+received: 'let me in'
+sent: 1 digit: 1
+received: 3
+received: 'let me in'
+sent: 3 digit: 3
+received: 3
+sent: 2 digit: 2
+received: 2
+sent: 4 digit: 4
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 1 digit: 1
+received: 0
+sent: 1 digit: 1
+received: 1
+sent: 2 digit: 2
+received: 2
+received: 'let me in'
+sent: 2 digit: 2
+received: 0
+received: 'let me in'
+sent: 4 digit: 4
+received: 4
+received: 'let me in'
+received: 0
+sent: 3 digit: 3
+sent: 1 digit: 1
+received: 2
+sent: 0 digit: 0
+received: 0
+received: 'let me in'
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 1 digit: 1
+received: 0
+received: 3
+sent: 3 digit: 3
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 4
+sent: 0 digit: 0
+received: 4
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 0 digit: 0
+received: 2
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 4 digit: 4
+received: 3
+sent: 1 digit: 1
+received: 4
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 3
+received: 'let me in'
+received: 2
+sent: 4 digit: 4
+sent: 4 digit: 4
+received: 3
+sent: 4 digit: 4
+received: 2
+sent: 0 digit: 0
+received: 4
+sent: 2 digit: 2
+received: 2
+sent: 4 digit: 4
+received: 0
+received: 0
+sent: 2 digit: 2
+received: 0
+sent: 1 digit: 1
+received: 'let me in'
+sent: 4 digit: 4
+received: 1
+sent: 3 digit: 3
+received: 2
+received: 3
+sent: 1 digit: 1
+sent: 2 digit: 2
+received: 3
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 0
+sent: 4 digit: 4
+received: 3
+sent: 1 digit: 1
+received: 2
+received: 'let me in'
+received: 1
+sent: 4 digit: 4
+sent: 3 digit: 3
+received: 4
+received: 'let me in'
+sent: 3 digit: 3
+received: 3
+sent: 2 digit: 2
+received: 0
+sent: 3 digit: 3
+received: 2
+sent: 0 digit: 0
+received: 4
+sent: 0 digit: 0
+received: 1
+received: 'let me in'
+sent: 0 digit: 0
+received: 4
+sent: 2 digit: 2
+received: 4
+received: 'let me in'
+sent: 0 digit: 0
+received: 3
+received: 'let me in'
+sent: 0 digit: 0
+received: 1
+sent: 0 digit: 0
+received: 0
+sent: 3 digit: 3
+received: 2
+received: 4
+received: 0
+received: 'let me in'
+sent: 4 digit: 4
+sent: 4 digit: 4
+sent: 0 digit: 0
+received: 2
+received: 4
+sent: 0 digit: 0
+sent: 2 digit: 2
+received: 3
+sent: 0 digit: 0
+received: 3
+sent: 4 digit: 4
+received: 2
+sent: 0 digit: 0
+received: 2
+received: 'let me in'
+sent: 2 digit: 2
+received: 2
+sent: 1 digit: 1
+received: 4
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 0
+sent: 1 digit: 1
+received: 0
+sent: 2 digit: 2
+received: 2
+received: 4
+sent: 0 digit: 0
+sent: 3 digit: 3
+received: 1
+received: 'let me in'
+sent: 3 digit: 3
+received: 2
+sent: 0 digit: 0
+received: 2
+sent: 0 digit: 0
+received: 4
+sent: 3 digit: 3
+received: 4
+sent: 3 digit: 3
+received: 3
+sent: 0 digit: 0
+received: 0
+sent: 2 digit: 2
+received: 2
+received: 'let me in'
+sent: 4 digit: 4
+received: 3
+sent: 4 digit: 4
+received: 1
+sent: 2 digit: 2
+received: 3
+sent: 0 digit: 0
+received: 3
+sent: 4 digit: 4
+received: 1
+received: 'let me in'
+sent: 3 digit: 3
+received: 4
+received: 'let me in'
+sent: 3 digit: 3
+received: 2
+received: 'let me in'
+sent: 0 digit: 0
+received: 1
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 2
+sent: 4 digit: 4
+received: 0
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 4 digit: 4
+received: 4
+received: 'let me in'
+sent: 0 digit: 0
+received: 2
+sent: 1 digit: 1
+received: 1
+received: 'let me in'
+sent: 1 digit: 1
+received: 2
+received: 'let me in'
+sent: 2 digit: 2
+received: 0
+sent: 2 digit: 2
+received: 4
+received: 'let me in'
+sent: 1 digit: 1
+received: 0
+received: 'let me in'
+sent: 1 digit: 1
+received: 1
+sent: 4 digit: 4
+received: 2
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 3
+sent: 4 digit: 4
+received: 4
+sent: 1 digit: 1
+received: 4
+sent: 0 digit: 0
+received: 4
+sent: 0 digit: 0
+received: 3
+sent: 4 digit: 4
+received: 2
+received: 'let me in'
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 2
+sent: 4 digit: 4
+received: 0
+received: 'let me in'
+sent: 2 digit: 2
+received: 2
+sent: 4 digit: 4
+received: 3
+received: 'let me in'
+sent: 4 digit: 4
+received: 1
+sent: 3 digit: 3
+received: 1
+sent: 0 digit: 0
+received: 2
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 1 digit: 1
+received: 2
+sent: 4 digit: 4
+received: 0
+sent: 4 digit: 4
+received: 3
+sent: 1 digit: 1
+received: 0
+received: 'let me in'
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 0
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 0
+sent: 1 digit: 1
+received: 0
+received: 2
+sent: 1 digit: 1
+sent: 1 digit: 1
+received: 3
+received: 'let me in'
+sent: 0 digit: 0
+received: 3
+received: 'let me in'
+sent: 2 digit: 2
+received: 3
+sent: 2 digit: 2
+received: 0
+sent: 3 digit: 3
+received: 4
+sent: 3 digit: 3
+received: 0
+received: 'let me in'
+sent: 2 digit: 2
+received: 2
+sent: 1 digit: 1
+received: 2
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 1 digit: 1
+received: 3
+received: 'let me in'
+sent: 0 digit: 0
+received: 2
+received: 4
+received: 'let me in'
+sent: 0 digit: 0
+sent: 3 digit: 3
+received: 1
+sent: 2 digit: 2
+received: 0
+sent: 1 digit: 1
+received: 1
+received: 'let me in'
+sent: 1 digit: 1
+received: 2
+received: 'let me in'
+sent: 3 digit: 3
+received: 1
+sent: 2 digit: 2
+received: 0
+received: 'let me in'
+sent: 1 digit: 1
+received: 0
+sent: 1 digit: 1
+received: 4
+sent: 0 digit: 0
+received: 3
+sent: 0 digit: 0
+received: 1
+sent: 3 digit: 3
+received: 3
+sent: 0 digit: 0
+received: 0
+received: 4
+received: 'let me in'
+sent: 3 digit: 3
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 4
+received: 'let me in'
+sent: 0 digit: 0
+received: 3
+received: 'let me in'
+sent: 1 digit: 1
+received: 0
+sent: 1 digit: 1
+received: 3
+sent: 1 digit: 1
+received: 4
+sent: 1 digit: 1
+received: 4
+received: 'let me in'
+sent: 2 digit: 2
+received: 3
+sent: 4 digit: 4
+received: 0
+sent: 1 digit: 1
+received: 2
+sent: 4 digit: 4
+received: 4
+received: 1
+sent: 3 digit: 3
+received: 0
+received: 1
+received: 0
+sent: 4 digit: 4
+sent: 4 digit: 4
+received: 1
+received: 4
+sent: 1 digit: 1
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 4
+sent: 0 digit: 0
+received: 3
+sent: 1 digit: 1
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 2 digit: 2
+received: 2
+sent: 0 digit: 0
+received: 0
+received: 4
+sent: 1 digit: 1
+received: 0
+received: 2
+sent: 4 digit: 4
+received: 0
+sent: 1 digit: 1
+received: 2
+sent: 3 digit: 3
+received: 2
+sent: 0 digit: 0
+received: 3
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 4
+received: 3
+sent: 1 digit: 1
+sent: 1 digit: 1
+received: 3
+received: 2
+sent: 4 digit: 4
+received: 3
+sent: 2 digit: 2
+received: 1
+sent: 0 digit: 0
+received: 1
+received: 0
+sent: 2 digit: 2
+received: 1
+sent: 0 digit: 0
+received: 0
+sent: 2 digit: 2
+received: 1
+sent: 4 digit: 4
+received: 0
+sent: 1 digit: 1
+received: 0
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 1
+received: 3
+sent: 3 digit: 3
+sent: 2 digit: 2
+received: 0
+sent: 3 digit: 3
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 3
+received: 0
+sent: 4 digit: 4
+received: 4
+sent: 3 digit: 3
+received: 3
+sent: 0 digit: 0
+received: 0
+sent: 1 digit: 1
+received: 4
+sent: 0 digit: 0
+received: 1
+received: 0
+received: 1
+sent: 2 digit: 2
+received: 1
+received: 2
+sent: 3 digit: 3
+received: 3
+received: 3
+sent: 0 digit: 0
+received: 2
+received: 1
+sent: 2 digit: 2
+received: 2
+received: 3
+sent: 4 digit: 4
+sent: 2 digit: 2
+received: 1
+sent: 3 digit: 3
+received: 4
+sent: 1 digit: 1
+received: 0
+sent: 2 digit: 2
+received: 2
+sent: 4 digit: 4
+received: 0
+sent: 1 digit: 1
+received: 3
+sent: 0 digit: 0
+received: 1
+sent: 3 digit: 3
+received: 0
+received: 1
+sent: 4 digit: 4
+received: 3
+sent: 0 digit: 0
+received: 2
+sent: 1 digit: 1
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 0 digit: 0
+received: 0
+sent: 1 digit: 1
+received: 2
+sent: 3 digit: 3
+received: 1
+received: 4
+sent: 3 digit: 3
+received: 3
+received: 4
+sent: 0 digit: 0
+received: 2
+sent: 4 digit: 4
+received: 2
+sent: 0 digit: 0
+received: 0
+sent: 1 digit: 1
+received: 4
+received: 3
+sent: 4 digit: 4
+sent: 3 digit: 3
+received: 3
+sent: 2 digit: 2
+received: 0
+sent: 3 digit: 3
+received: 4
+sent: 2 digit: 2
+received: 3
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 3
+sent: 1 digit: 1
+received: 0
+sent: 1 digit: 1
+received: 1
+sent: 0 digit: 0
+received: 0
+received: 1
+received: 1
+sent: 2 digit: 2
+sent: 2 digit: 2
+received: 2
+received: 1
+sent: 4 digit: 4
+received: 4
+sent: 2 digit: 2
+received: 3
+received: 3
+sent: 4 digit: 4
+received: 0
+received: 4
+sent: 2 digit: 2
+sent: 1 digit: 1
+received: 3
+sent: 0 digit: 0
+received: 4
+sent: 2 digit: 2
+received: 2
+sent: 3 digit: 3
+received: 1
+received: 2
+sent: 2 digit: 2
+received: 1
+sent: 2 digit: 2
+received: 0
+received: 1
+sent: 2 digit: 2
+received: 4
+sent: 2 digit: 2
+received: 3
+sent: 1 digit: 1
+received: 2
+sent: 4 digit: 4
+received: 2
+received: 0
+sent: 1 digit: 1
+received: 4
+received: 0
+sent: 2 digit: 2
+received: 0
+sent: 4 digit: 4
+received: 2
+received: 3
+sent: 0 digit: 0
+received: 4
+received: 2
+sent: 0 digit: 0
+received: 1
+sent: 0 digit: 0
+received: 0
+received: 1
+received: 4
+sent: 2 digit: 2
+received: 3
+sent: 1 digit: 1
+received: 2
+sent: 0 digit: 0
+received: 4
+received: 2
+sent: 0 digit: 0
+received: 1
+sent: 4 digit: 4
+received: 1
+received: 0
+sent: 1 digit: 1
+received: 1
+sent: 4 digit: 4
+received: 2
+sent: 0 digit: 0
+received: 3
+received: 3
+received: 2
+received: 2
+received: 1
+sent: 0 digit: 0
+received: 2
+sent: 3 digit: 3
+received: 2
+received: 4
+sent: 3 digit: 3
+received: 2
+received: 1
+received: 2
+received: 0
+sent: 4 digit: 4
+received: 0
+received: 3
+received: 4
+sent: 1 digit: 1
+received: 0
+sent: 1 digit: 1
+received: 4
+received: 3
+sent: 0 digit: 0
+received: 1
+sent: 4 digit: 4
+received: 1
+sent: 0 digit: 0
+received: 0
+received: 4
+received: 1
+received: 0
+received: 4
+sent: 3 digit: 3
+received: 0
+sent: 4 digit: 4
+received: 0
+received: 3
+received: 4
+received: 4
+received: 1
+sent: 2 digit: 2
+received: 2
+received: 0
+
+
+
